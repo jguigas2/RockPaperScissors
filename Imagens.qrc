@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>projeto.txt</file>
+        <file>Papel.png</file>
+        <file>Pedra.png</file>
+        <file>Tesoura.png</file>
+    </qresource>
+</RCC>
